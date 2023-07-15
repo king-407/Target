@@ -18,7 +18,7 @@ Click on the title of the notes to view and download the content.
 
 # Technology Used
 [React](https://react.dev/)<br>
-[Node.js](https://nodejs.org/en)
-[MongoDB](https://www.mongodb.com/)
-[Express](https://expressjs.com/)
+[Node.js](https://nodejs.org/en)<br>
+[MongoDB](https://www.mongodb.com/)<br>
+[Express](https://expressjs.com/)<br>
 
