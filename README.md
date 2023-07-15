@@ -17,7 +17,7 @@ Browse through the search results to find the notes that match your query.
 Click on the title of the notes to view and download the content.
 
 # Technology Used
-[React](https://react.dev/)
+[React](https://react.dev/)__
 [Node.js](https://nodejs.org/en)
 [MongoDB](https://www.mongodb.com/)
 [Express](https://expressjs.com/)
