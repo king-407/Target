@@ -15,3 +15,10 @@ Submit the form, and your notes will be immediately available for others to acce
 Use the search bar on the homepage to enter keywords related to the subject or topic you're looking for.
 Browse through the search results to find the notes that match your query.
 Click on the title of the notes to view and download the content.
+
+# Technology Used
+[React](https://react.dev/)
+[Node.js](https://nodejs.org/en)
+[MongoDB](https://www.mongodb.com/)
+[Express](https://expressjs.com/)
+
