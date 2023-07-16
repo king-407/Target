@@ -29,5 +29,15 @@ Click on the title of the notes to view and download the content.
 ![Screenshot (61)](https://github.com/king-407/Target/assets/95581750/e216fcbe-53f6-4446-9be3-d9719d339ab7)
 
 # Installation
-Clone the repository <br>
-'''git clone <repo name>'''
+- `Star` and `Fork` this repository.
+- Clone the repository.
+
+```bash
+git clone <repo_name>
+```
+- Go to the backend folder and start the backend server.
+  
+  ```bash
+git clone <repo_name>
+```
+  
