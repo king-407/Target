@@ -4,7 +4,7 @@ Welcome to our Student Notes Sharing Website! This platform allows students to e
 
 
 # How to Use
-Uploading Notes
+For uploading Notes
 Click on the "Upload" button on the homepage to get started.
 Choose the subject/category that best fits your notes.
 Provide a relevant title and description for your notes to help others understand the content better.
