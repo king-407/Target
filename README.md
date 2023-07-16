@@ -35,9 +35,19 @@ Click on the title of the notes to view and download the content.
 ```bash
 git clone <repo_name>
 ```
-- Go to the backend folder and start the backend server.
-  
-  ```bash
-git clone <repo_name>
+- Install the dependencies.
+
+```bash
+npm i
+```
+- Go to the backend folder and install the dependencies and start the server.
+
+```bash
+node index
+```
+- Go to the root folder and start the frontend.
+
+```bash
+npm run dev
 ```
   
