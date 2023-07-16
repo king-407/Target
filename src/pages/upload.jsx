@@ -24,6 +24,9 @@ const Upload = () => {
       .post("http://localhost:3000/study", formdata)
       .then((res) => console.log(res))
       .catch((err) => console.log(err));
+    setCategory("");
+    setTitle("");
+    setFile(null);
   };
   return (
     <div
@@ -58,6 +61,7 @@ const Upload = () => {
                   border: "1px solid white",
                   color: "white",
                 }}
+                value={title}
                 onChange={(e) => setTitle(e.target.value)}
                 className="upload-input"
               />
@@ -76,6 +80,7 @@ const Upload = () => {
                   border: "1px solid white",
                   color: "white",
                 }}
+                value={category}
                 onChange={(e) => setCategory(e.target.value)}
                 className="upload-input"
               />
