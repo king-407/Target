@@ -3,7 +3,7 @@ Welcome to our Student Notes Sharing Website! This platform allows students to e
 
 
 
-# How to Use
+# How to use
 For uploading Notes
 Click on the "Upload" button on the homepage to get started.
 Choose the subject/category that best fits your notes.
