@@ -24,9 +24,9 @@ Click on the title of the notes to view and download the content.
 
 # Screenshots
 
-![Screenshot (63)](https://github.com/king-407/Target/assets/95581750/9bbebdef-0a3c-4d4f-b7ef-46d5d391cab6)
-![Screenshot (62)](https://github.com/king-407/Target/assets/95581750/7d9747a1-e40d-4eab-9387-df13a4b6d67c)
-![Screenshot (61)](https://github.com/king-407/Target/assets/95581750/e216fcbe-53f6-4446-9be3-d9719d339ab7)
+![first](https://github.com/king-407/Target/assets/95581750/c8eb5d71-cbee-4ca3-a68f-c288dad451ec)
+![Second](https://github.com/king-407/Target/assets/95581750/c6e7606a-9eb8-4e5b-baa4-bb12eeb495ca)
+![Third](https://github.com/king-407/Target/assets/95581750/81e3c1c2-2fdc-4119-9bea-5c64041bdb1d)
 
 # Installation
 - `Star` and `Fork` this repository.
